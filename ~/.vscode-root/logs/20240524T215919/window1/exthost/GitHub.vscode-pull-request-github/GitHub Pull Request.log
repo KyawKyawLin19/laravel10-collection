@@ -1,0 +1,39 @@
+2024-05-24 21:59:22.207 [warning] /root/.ssh/config: ENOENT: no such file or directory, open '/root/.ssh/config'
+2024-05-24 21:59:22.208 [info] Activation> Extension version: 0.88.1
+2024-05-24 21:59:22.208 [info] TemporaryState> Error in initialization: Unable to delete nonexistent file 'vscode-userdata:/home/kyawkyawlin/Sites/laravel10-collection/~/.vscode-root/User/globalStorage/github.vscode-pull-request-github/temp'
+2024-05-24 21:59:22.220 [info] Looking for git repository
+2024-05-24 21:59:22.220 [info] Found 0 repositories during activation
+2024-05-24 21:59:22.220 [info] Git repository found, initializing review manager and pr tree view.
+2024-05-24 22:01:55.691 [info] Registering git provider
+2024-05-24 22:01:55.885 [info] Repository file:///home/kyawkyawlin/Sites/laravel10-collection has been opened
+2024-05-24 22:01:56.022 [info] Review+0> Validate state in progress
+2024-05-24 22:01:56.022 [info] Review+0> Validating state...
+2024-05-24 22:01:56.022 [info] Cannot updates repositories as git is uninitialized
+2024-05-24 22:01:56.022 [info] Repo state for file:///home/kyawkyawlin/Sites/laravel10-collection changed.
+2024-05-24 22:01:56.022 [info] Repo file:///home/kyawkyawlin/Sites/laravel10-collection has already been setup.
+2024-05-24 22:01:56.102 [info] Git initialization state changed: state=initialized
+2024-05-24 22:01:56.102 [info] Review+0> Validate state in progress
+2024-05-24 22:01:56.102 [info] Review+0> Validating state...
+2024-05-24 22:01:56.103 [info] Found GitHub remote for folder /home/kyawkyawlin/Sites/laravel10-collection
+2024-05-24 22:01:56.105 [info] Trying to use globalState for assignableUsers.
+2024-05-24 22:01:56.112 [info] GlobalState does not exist for assignableUsers.
+2024-05-24 22:01:56.113 [info] Review+0> No matching pull request metadata found locally for current branch main
+2024-05-24 22:01:56.113 [info] Review+0> No matching pull request metadata found on GitHub for current branch main
+2024-05-24 22:09:00.273 [info] Review+0> Validate state in progress
+2024-05-24 22:09:00.274 [info] Review+0> Validating state...
+2024-05-24 22:09:00.278 [info] Found GitHub remote for folder /home/kyawkyawlin/Sites/laravel10-collection
+2024-05-24 22:09:00.279 [info] Using in-memory cached assignable users.
+2024-05-24 22:09:00.302 [info] Review+0> No matching pull request metadata found locally for current branch avg
+2024-05-24 22:09:00.312 [info] Review+0> No matching pull request metadata found on GitHub for current branch avg
+2024-05-24 22:29:35.810 [info] Review+0> Validate state in progress
+2024-05-24 22:29:35.810 [info] Review+0> Validating state...
+2024-05-24 22:29:35.844 [info] Found GitHub remote for folder /home/kyawkyawlin/Sites/laravel10-collection
+2024-05-24 22:29:35.845 [info] Using in-memory cached assignable users.
+2024-05-24 22:29:35.862 [info] Review+0> No matching pull request metadata found locally for current branch avg
+2024-05-24 22:29:35.863 [info] Review+0> No matching pull request metadata found on GitHub for current branch avg
+2024-05-24 22:31:58.407 [info] Review+0> Validate state in progress
+2024-05-24 22:31:58.407 [info] Review+0> Validating state...
+2024-05-24 22:31:58.419 [info] Found GitHub remote for folder /home/kyawkyawlin/Sites/laravel10-collection
+2024-05-24 22:31:58.420 [info] Using in-memory cached assignable users.
+2024-05-24 22:31:58.439 [info] Review+0> No matching pull request metadata found locally for current branch max
+2024-05-24 22:31:58.450 [info] Review+0> No matching pull request metadata found on GitHub for current branch max
